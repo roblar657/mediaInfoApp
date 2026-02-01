@@ -1,4 +1,5 @@
-# MediaInfo app
+# Media info app
+Holder rede på informasjon om diverse ting, hvor en for et gitt element kan se ett bilde (eller default bilde om bilde ikke finnes) og tilhørende tekst.
 
 # Bilder av app
 
